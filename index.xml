@@ -128,11 +128,12 @@
     </item>
     
     <item>
-      <title>Pandas</title>
+      <title>New Capital Consensus</title>
       <link>http://localhost:4321/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <description>&lt;p&gt;New Capital Consensus is a coalition of non-commercial, apolitical organisations that have come together to explore how the current UK investment system contributes to the country’s current problems of low productivity, inequality and low levels of investment. Its objective is to find ways to release investment capital to address societal problems, like those above and in particular, to green the economy.&lt;/p&gt;
+&lt;p&gt;The NCC coalition of organisations comprises Finstic (Financial Systems Thinking Innovation Centre), University of Leeds and Radix Big Tent and is incubated at Chatham House Sustainability Accelerator.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -278,7 +279,7 @@
 
 
 
-&lt;div id=&#34;chart-369158724&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-345768192&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +297,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-369158724&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-345768192&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
