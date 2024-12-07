@@ -2,221 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4882/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/</loc>
-    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/publication_types/3/</loc>
+    <loc>https://wadudsania.github.io/publication_types/3/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/green-bonds-efficient-market-hypothesis-fractional-integration-differences-of-opinion-expectation-surveys/</loc>
+    <loc>https://wadudsania.github.io/tags/green-bonds-efficient-market-hypothesis-fractional-integration-differences-of-opinion-expectation-surveys/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/journal-article/paper2/</loc>
+    <loc>https://wadudsania.github.io/publication/journal-article/paper2/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication_types/</loc>
+    <loc>https://wadudsania.github.io/publication_types/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/</loc>
+    <loc>https://wadudsania.github.io/publication/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/</loc>
+    <loc>https://wadudsania.github.io/tags/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/crude-oil-markets-efficient-market-hypothesis-arrival-of-information-difference-in-opinion-fractional-integration/</loc>
+    <loc>https://wadudsania.github.io/tags/crude-oil-markets-efficient-market-hypothesis-arrival-of-information-difference-in-opinion-fractional-integration/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/preprint/paper3/</loc>
+    <loc>https://wadudsania.github.io/publication/preprint/paper3/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/efficient-market-hypothesis/</loc>
+    <loc>https://wadudsania.github.io/tags/efficient-market-hypothesis/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/fractional-integration/</loc>
+    <loc>https://wadudsania.github.io/tags/fractional-integration/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/preprint/paper2/</loc>
+    <loc>https://wadudsania.github.io/publication/preprint/paper2/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/market-integration/</loc>
+    <loc>https://wadudsania.github.io/tags/market-integration/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/world-oil-markets/</loc>
+    <loc>https://wadudsania.github.io/tags/world-oil-markets/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/projects/</loc>
+    <loc>https://wadudsania.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/post/get-started/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/tags/academic/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/post/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/tags/hugo-blox/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/tags/markdown/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/tags/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/post/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/post/data-visualization/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/tags/hugo/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/post/teach-courses/</loc>
+    <loc>https://wadudsania.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/tags/hugo-blox-builder/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/post/project-management/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/publication_types/article-journal/</loc>
+    <loc>https://wadudsania.github.io/publication_types/article-journal/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/journal-article/paper1/</loc>
+    <loc>https://wadudsania.github.io/publication/journal-article/paper1/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/co-movement-financialisation-thick-pen-measure-commodity-markets-equity-markets/</loc>
+    <loc>https://wadudsania.github.io/tags/co-movement-financialisation-thick-pen-measure-commodity-markets-equity-markets/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication_types/1/</loc>
+    <loc>https://wadudsania.github.io/publication_types/1/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/green-bond-green-equity-multi-scale-connectedness/</loc>
+    <loc>https://wadudsania.github.io/tags/green-bond-green-equity-multi-scale-connectedness/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/preprint/paper5/</loc>
+    <loc>https://wadudsania.github.io/publication/preprint/paper5/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/correlation/</loc>
+    <loc>https://wadudsania.github.io/tags/correlation/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/financialisation/</loc>
+    <loc>https://wadudsania.github.io/tags/financialisation/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/samuelson-hypothesis/</loc>
+    <loc>https://wadudsania.github.io/tags/samuelson-hypothesis/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/seasonality/</loc>
+    <loc>https://wadudsania.github.io/tags/seasonality/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/preprint/paper1/</loc>
+    <loc>https://wadudsania.github.io/publication/preprint/paper1/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/volatility-dynamics/</loc>
+    <loc>https://wadudsania.github.io/tags/volatility-dynamics/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://wadudsania.github.io/publication_types/0/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://wadudsania.github.io/tags/better-society/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://wadudsania.github.io/publication/preprint/paper6/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://wadudsania.github.io/tags/financial-system/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication_types/0/</loc>
+    <loc>https://wadudsania.github.io/tags/greener-economy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/better-society/</loc>
+    <loc>https://wadudsania.github.io/tags/insurance/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/publication/preprint/paper6/</loc>
+    <loc>https://wadudsania.github.io/project/pandas/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/financial-system/</loc>
+    <loc>https://wadudsania.github.io/tags/pension/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/greener-economy/</loc>
+    <loc>https://wadudsania.github.io/project/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/tags/insurance/</loc>
+    <loc>https://wadudsania.github.io/publication/preprint/paper4/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4882/project/pandas/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/tags/pension/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/project/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/publication/preprint/paper4/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4882/teaching/</loc>
+    <loc>https://wadudsania.github.io/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
