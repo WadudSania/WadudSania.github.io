@@ -2,208 +2,221 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:6753/event/example/</loc>
+    <loc>http://localhost:4882/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/event/</loc>
+    <loc>http://localhost:4882/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/</loc>
+    <loc>http://localhost:4882/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/projects/</loc>
+    <loc>http://localhost:4882/publication_types/3/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/green-bonds-efficient-market-hypothesis-fractional-integration-differences-of-opinion-expectation-surveys/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/publication/journal-article/paper2/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/publication_types/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/publication/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/crude-oil-markets-efficient-market-hypothesis-arrival-of-information-difference-in-opinion-fractional-integration/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/publication/preprint/paper3/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/efficient-market-hypothesis/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/fractional-integration/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/publication/preprint/paper2/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/market-integration/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/world-oil-markets/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/post/get-started/</loc>
+    <loc>http://localhost:4882/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/academic/</loc>
+    <loc>http://localhost:4882/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/post/</loc>
+    <loc>http://localhost:4882/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/hugo-blox/</loc>
+    <loc>http://localhost:4882/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/markdown/</loc>
+    <loc>http://localhost:4882/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/tags/second-brain/</loc>
+    <loc>http://localhost:4882/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/post/second-brain/</loc>
+    <loc>http://localhost:4882/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/post/data-visualization/</loc>
+    <loc>http://localhost:4882/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/hugo/</loc>
+    <loc>http://localhost:4882/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/post/teach-courses/</loc>
+    <loc>http://localhost:4882/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/experience/</loc>
+    <loc>http://localhost:4882/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:4882/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/javascript/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/teaching/js/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/teaching/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/tags/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/teaching/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/post/project-management/</loc>
+    <loc>http://localhost:4882/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication_types/article-journal/</loc>
+    <loc>http://localhost:4882/publication_types/article-journal/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/journal-article/paper1/</loc>
+    <loc>http://localhost:4882/publication/journal-article/paper1/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/journal-article/paper2/</loc>
+    <loc>http://localhost:4882/tags/co-movement-financialisation-thick-pen-measure-commodity-markets-equity-markets/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/co-movement-financialisation-thick-pen-measure-commodity-markets-equity-markets/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/publication_types/1/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication_types/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/tags/green-bond-green-equity-multi-scale-connectedness/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/publication/preprint/paper5/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://localhost:4882/tags/correlation/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/financialisation/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/samuelson-hypothesis/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/seasonality/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/publication/preprint/paper1/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/tags/volatility-dynamics/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4882/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/plot/</loc>
+    <loc>http://localhost:4882/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/r-markdown/</loc>
+    <loc>http://localhost:4882/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/regression/</loc>
+    <loc>http://localhost:4882/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/publication_types/0/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication_types/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/tags/better-society/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/tags/large-language-models/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/publication/preprint/paper6/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/tags/financial-system/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/manuscript-in-prep/paper1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/tags/greener-economy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/manuscript-in-prep/paper2/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/tags/insurance/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/manuscript-in-prep/paper3/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/project/pandas/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/manuscript-in-prep/paper4/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/tags/pension/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/manuscript-in-prep/paper5/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/project/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/manuscript-in-prep/paper6/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4882/publication/preprint/paper4/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:6753/publication/manuscript-in-prep/paper7/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/publication_types/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/publication/working-paper/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/tags/better-society/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/tags/financial-system/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/tags/greener-economy/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/tags/insurance/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/project/pandas/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/tags/pension/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:6753/project/</loc>
+    <loc>http://localhost:4882/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
